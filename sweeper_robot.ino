@@ -1,5 +1,6 @@
 // Arduino-Ardumoto obstacle avoiding robot
 // Sweeper Robot
+// CSUSB Project 1
 #include <NewPing.h>
 
 #define TRIGGER_PIN  7   // pin tied to trigger pin on the ultrasonic sensor
