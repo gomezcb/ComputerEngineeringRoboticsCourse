@@ -1,3 +1,6 @@
+// CSUSB CSE 541 Robotics nad Control
+// Basic motor control for Arduino robot
+
 #define CW  0     // clockwise
 #define CCW 1     // counterclockwise
 #define MOTOR_A 0 // motor A
